@@ -1,80 +1,17 @@
 {
   "data": [
     {
-      "id": 3,
+      "id": 5,
       "attributes": {
-        "title": "Stardew Valley",
-        "body": "__Stardew Valley__ is a simulation role-playing video game developed by Eric \"ConcernedApe\" Barone. Players take the role of a character who inherits their deceased grandfather's dilapidated farm in a place known as Stardew Valley. The game was released for Windows in February 2016 before being ported to other platforms.\n\nStardew Valley is open-ended, allowing players to grow crops, raise livestock, fish, cook, mine, forage, and socialize with the townspeople, including the ability to marry and have children. It allows up to four players to play online together.",
-        "createdAt": "2024-01-27T15:18:51.326Z",
-        "updatedAt": "2024-01-27T15:18:53.876Z",
-        "publishedAt": "2024-01-27T15:18:53.874Z",
-        "slug": "stardew-valley",
-        "subtitle": "A Stardew Valley 2024-05-04",
+        "slug": "hollow-knight",
+        "title": "Hollow Knight",
+        "subtitle": "A Hollow Knight 2024-05-05",
+        "publishedAt": "2024-01-27T15:21:10.994Z",
         "image": {
           "data": {
-            "id": 1,
+            "id": 3,
             "attributes": {
-              "name": "stardew-valley.jpg",
-              "alternativeText": null,
-              "caption": null,
-              "width": 1280,
-              "height": 720,
-              "formats": {
-                "thumbnail": {
-                  "name": "thumbnail_stardew-valley.jpg",
-                  "hash": "thumbnail_stardew_valley_4d91e17a73",
-                  "ext": ".jpg",
-                  "mime": "image/jpeg",
-                  "path": null,
-                  "width": 245,
-                  "height": 138,
-                  "size": 7.8,
-                  "url": "/uploads/thumbnail_stardew_valley_4d91e17a73.jpg"
-                },
-                "small": {
-                  "name": "small_stardew-valley.jpg",
-                  "hash": "small_stardew_valley_4d91e17a73",
-                  "ext": ".jpg",
-                  "mime": "image/jpeg",
-                  "path": null,
-                  "width": 500,
-                  "height": 281,
-                  "size": 28.41,
-                  "url": "/uploads/small_stardew_valley_4d91e17a73.jpg"
-                },
-                "medium": {
-                  "name": "medium_stardew-valley.jpg",
-                  "hash": "medium_stardew_valley_4d91e17a73",
-                  "ext": ".jpg",
-                  "mime": "image/jpeg",
-                  "path": null,
-                  "width": 750,
-                  "height": 422,
-                  "size": 57.8,
-                  "url": "/uploads/medium_stardew_valley_4d91e17a73.jpg"
-                },
-                "large": {
-                  "name": "large_stardew-valley.jpg",
-                  "hash": "large_stardew_valley_4d91e17a73",
-                  "ext": ".jpg",
-                  "mime": "image/jpeg",
-                  "path": null,
-                  "width": 1000,
-                  "height": 563,
-                  "size": 95.62,
-                  "url": "/uploads/large_stardew_valley_4d91e17a73.jpg"
-                }
-              },
-              "hash": "stardew_valley_4d91e17a73",
-              "ext": ".jpg",
-              "mime": "image/jpeg",
-              "size": 144.35,
-              "url": "/uploads/stardew_valley_4d91e17a73.jpg",
-              "previewUrl": null,
-              "provider": "local",
-              "provider_metadata": null,
-              "createdAt": "2024-01-27T15:18:39.895Z",
-              "updatedAt": "2024-01-27T15:18:39.895Z"
+              "url": "/uploads/hollow_knight_c700cd9b8b.jpg"
             }
           }
         }
@@ -83,158 +20,32 @@
     {
       "id": 4,
       "attributes": {
-        "title": "Hellblade",
-        "body": "This is the review for __Hellblade__.",
-        "createdAt": "2024-01-27T15:20:05.387Z",
-        "updatedAt": "2024-01-27T15:20:08.071Z",
-        "publishedAt": "2024-01-27T15:20:08.069Z",
         "slug": "hellblade",
+        "title": "Hellblade",
         "subtitle": "A Hellblade 2024-05-04",
+        "publishedAt": "2024-01-27T15:20:08.069Z",
         "image": {
           "data": {
             "id": 2,
             "attributes": {
-              "name": "hellblade.jpg",
-              "alternativeText": null,
-              "caption": null,
-              "width": 1280,
-              "height": 720,
-              "formats": {
-                "thumbnail": {
-                  "name": "thumbnail_hellblade.jpg",
-                  "hash": "thumbnail_hellblade_6e23323108",
-                  "ext": ".jpg",
-                  "mime": "image/jpeg",
-                  "path": null,
-                  "width": 245,
-                  "height": 138,
-                  "size": 7.69,
-                  "url": "/uploads/thumbnail_hellblade_6e23323108.jpg"
-                },
-                "medium": {
-                  "name": "medium_hellblade.jpg",
-                  "hash": "medium_hellblade_6e23323108",
-                  "ext": ".jpg",
-                  "mime": "image/jpeg",
-                  "path": null,
-                  "width": 750,
-                  "height": 422,
-                  "size": 62.32,
-                  "url": "/uploads/medium_hellblade_6e23323108.jpg"
-                },
-                "small": {
-                  "name": "small_hellblade.jpg",
-                  "hash": "small_hellblade_6e23323108",
-                  "ext": ".jpg",
-                  "mime": "image/jpeg",
-                  "path": null,
-                  "width": 500,
-                  "height": 281,
-                  "size": 29.47,
-                  "url": "/uploads/small_hellblade_6e23323108.jpg"
-                },
-                "large": {
-                  "name": "large_hellblade.jpg",
-                  "hash": "large_hellblade_6e23323108",
-                  "ext": ".jpg",
-                  "mime": "image/jpeg",
-                  "path": null,
-                  "width": 1000,
-                  "height": 563,
-                  "size": 104.21,
-                  "url": "/uploads/large_hellblade_6e23323108.jpg"
-                }
-              },
-              "hash": "hellblade_6e23323108",
-              "ext": ".jpg",
-              "mime": "image/jpeg",
-              "size": 157.89,
-              "url": "/uploads/hellblade_6e23323108.jpg",
-              "previewUrl": null,
-              "provider": "local",
-              "provider_metadata": null,
-              "createdAt": "2024-01-27T15:19:50.184Z",
-              "updatedAt": "2024-01-27T15:19:50.184Z"
+              "url": "/uploads/hellblade_6e23323108.jpg"
             }
           }
         }
       }
     },
     {
-      "id": 5,
+      "id": 3,
       "attributes": {
-        "title": "Hollow Knight",
-        "body": "__Hollow Knight__ is a 2017 Metroidvania video game developed and published by independent developer Team Cherry. In the game, the player controls the Knight, a nameless insectoid warrior, who explores Hallownest, a fallen kingdom plagued by a supernatural disease, known as the infection.\n\nThe game is set in diverse subterranean locations, featuring friendly and hostile insectoid characters and numerous bosses. Players have the opportunity to unlock new abilities as they explore each location, along with pieces of lore and flavour text that are spread throughout the kingdom.",
-        "createdAt": "2024-01-27T15:21:10.253Z",
-        "updatedAt": "2024-01-27T15:21:10.996Z",
-        "publishedAt": "2024-01-27T15:21:10.994Z",
-        "slug": "hollow-knight",
-        "subtitle": "A Hollow Knight 2024-05-05",
+        "slug": "stardew-valley",
+        "title": "Stardew Valley",
+        "subtitle": "A Stardew Valley 2024-05-04",
+        "publishedAt": "2024-01-27T15:18:53.874Z",
         "image": {
           "data": {
-            "id": 3,
+            "id": 1,
             "attributes": {
-              "name": "hollow-knight.jpg",
-              "alternativeText": null,
-              "caption": null,
-              "width": 1280,
-              "height": 720,
-              "formats": {
-                "thumbnail": {
-                  "name": "thumbnail_hollow-knight.jpg",
-                  "hash": "thumbnail_hollow_knight_c700cd9b8b",
-                  "ext": ".jpg",
-                  "mime": "image/jpeg",
-                  "path": null,
-                  "width": 245,
-                  "height": 138,
-                  "size": 6.38,
-                  "url": "/uploads/thumbnail_hollow_knight_c700cd9b8b.jpg"
-                },
-                "small": {
-                  "name": "small_hollow-knight.jpg",
-                  "hash": "small_hollow_knight_c700cd9b8b",
-                  "ext": ".jpg",
-                  "mime": "image/jpeg",
-                  "path": null,
-                  "width": 500,
-                  "height": 281,
-                  "size": 17.85,
-                  "url": "/uploads/small_hollow_knight_c700cd9b8b.jpg"
-                },
-                "medium": {
-                  "name": "medium_hollow-knight.jpg",
-                  "hash": "medium_hollow_knight_c700cd9b8b",
-                  "ext": ".jpg",
-                  "mime": "image/jpeg",
-                  "path": null,
-                  "width": 750,
-                  "height": 422,
-                  "size": 32.04,
-                  "url": "/uploads/medium_hollow_knight_c700cd9b8b.jpg"
-                },
-                "large": {
-                  "name": "large_hollow-knight.jpg",
-                  "hash": "large_hollow_knight_c700cd9b8b",
-                  "ext": ".jpg",
-                  "mime": "image/jpeg",
-                  "path": null,
-                  "width": 1000,
-                  "height": 563,
-                  "size": 48.58,
-                  "url": "/uploads/large_hollow_knight_c700cd9b8b.jpg"
-                }
-              },
-              "hash": "hollow_knight_c700cd9b8b",
-              "ext": ".jpg",
-              "mime": "image/jpeg",
-              "size": 65.83,
-              "url": "/uploads/hollow_knight_c700cd9b8b.jpg",
-              "previewUrl": null,
-              "provider": "local",
-              "provider_metadata": null,
-              "createdAt": "2024-01-27T15:20:56.215Z",
-              "updatedAt": "2024-01-27T15:20:56.215Z"
+              "url": "/uploads/stardew_valley_4d91e17a73.jpg"
             }
           }
         }
@@ -244,7 +55,7 @@
   "meta": {
     "pagination": {
       "page": 1,
-      "pageSize": 25,
+      "pageSize": 6,
       "pageCount": 1,
       "total": 3
     }
