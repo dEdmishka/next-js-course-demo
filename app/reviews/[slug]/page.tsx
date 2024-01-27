@@ -24,16 +24,11 @@ export async function generateMetadata({ params: { slug } }: ReviewPageProps): P
 }
 
 export default async function ReviewPage({ params: { slug } }: ReviewPageProps) {
-  // const text = await readFile('./content/reviews/stardew-valley.md', 'utf8');
-  // // const html = marked(text);
-  // const { content, data: { title, date, image } } = matter(text);
-  // const html = marked(content);
   const review = await getReview(slug);
 
   return (
     <>
       <Heading>{review.title}</Heading>
-      {/* <p className="italic pb-2">{review.date}</p> */}
       <div className="flex gap-3 items-baseline">
         <p className="italic pb-2">{review.date}</p>
         <ShareLinkButton />

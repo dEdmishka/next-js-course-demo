@@ -4,13 +4,15 @@
     "scripts": {
         "build": "next build",
         "dev": "next dev",
-        "start": "next start"
+        "start": "next start",
+        "serve": "serve out"
     },
     "dependencies": {
         "@heroicons/react": "^2.1.1",
         "gray-matter": "^4.0.3",
         "marked": "^11.1.1",
         "next": "^14.0.1",
+        "qs": "^6.11.2",
         "react": "^18.2.0",
         "react-dom": "^18.2.0"
     },
@@ -20,6 +22,7 @@
         "@types/react": "18.2.37",
         "autoprefixer": "^10.4.17",
         "postcss": "^8.4.33",
+        "serve": "^14.2.1",
         "tailwindcss": "^3.4.1",
         "typescript": "5.2.2"
     }
