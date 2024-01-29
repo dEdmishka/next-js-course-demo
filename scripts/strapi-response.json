@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "id": 5,
+      "attributes": {
+        "slug": "hollow-knight",
+        "title": "Hollow Knight",
+        "subtitle": "A Hollow Knight 2024-05-05",
+        "publishedAt": "2024-01-27T15:21:10.994Z",
+        "image": {
+          "data": {
+            "id": 3,
+            "attributes": {
+              "url": "/uploads/hollow_knight_c700cd9b8b.jpg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4,
+      "attributes": {
+        "slug": "hellblade",
+        "title": "Hellblade",
+        "subtitle": "A Hellblade 2024-05-04",
+        "publishedAt": "2024-01-27T15:20:08.069Z",
+        "image": {
+          "data": {
+            "id": 2,
+            "attributes": {
+              "url": "/uploads/hellblade_6e23323108.jpg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3,
+      "attributes": {
+        "slug": "stardew-valley",
+        "title": "Stardew Valley",
+        "subtitle": "A Stardew Valley 2024-05-04",
+        "publishedAt": "2024-01-27T15:18:53.874Z",
+        "image": {
+          "data": {
+            "id": 1,
+            "attributes": {
+              "url": "/uploads/stardew_valley_4d91e17a73.jpg"
+            }
+          }
+        }
+      }
+    }
+  ],
+  "meta": {
+    "pagination": {
+      "page": 1,
+      "pageSize": 6,
+      "pageCount": 1,
+      "total": 3
+    }
+  }
+}
