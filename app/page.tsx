@@ -5,7 +5,9 @@ import Link from 'next/link';
 import Image from 'next/image';
 
 export default async function HomePage() {
+
   const reviews = await getReviews(3);
+  
   return (
     <>
       <Heading>Indie Gamer</Heading>
