@@ -1,4 +1,5 @@
 {
+  "import/no-extraneous-dependencies": ["error", { "devDependencies": true }],
   "extends": [
     "next/core-web-vitals",
     "airbnb",
