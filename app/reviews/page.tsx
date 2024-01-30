@@ -1,11 +1,12 @@
-import Link from "next/link";
-import Heading from "@/components/Heading";
-import { getReviews } from "@/lib/reviews";
-import { Metadata } from "next";
-import Image from "next/image";
+import React from 'react';
+import Link from 'next/link';
+import Heading from '@/components/Heading';
+import { getReviews } from '@/lib/reviews';
+import { Metadata } from 'next';
+import Image from 'next/image';
 
 export const metadata: Metadata = {
-  title: "Reviews",
+  title: 'Reviews',
 };
 
 export default async function ReviewsPage() {

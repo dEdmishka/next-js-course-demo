@@ -1,7 +1,8 @@
-import Heading from "@/components/Heading";
-import { getReviews } from "@/lib/reviews";
-import Link from "next/link";
-import Image  from 'next/image';
+import React from 'react';
+import Heading from '@/components/Heading';
+import { getReviews } from '@/lib/reviews';
+import Link from 'next/link';
+import Image from 'next/image';
 
 export default async function HomePage() {
   const reviews = await getReviews(3);

@@ -1,8 +1,9 @@
-import Heading from "@/components/Heading";
-import ShareLinkButton from "@/components/ShareLinkButton";
-import { getReview, getSlugs } from "@/lib/reviews";
-import { Metadata } from "next";
-import Image from "next/image";
+import React from 'react';
+import Heading from '@/components/Heading';
+import ShareLinkButton from '@/components/ShareLinkButton';
+import { getReview, getSlugs } from '@/lib/reviews';
+import { Metadata } from 'next';
+import Image from 'next/image';
 
 interface ReviewPageParams {
   slug: string;
@@ -14,7 +15,7 @@ interface ReviewPageProps {
 
 export async function generateStaticParams(): Promise<ReviewPageParams[]> {
   const slugs = await getSlugs();
-  console.log("[ReviewPage] generateStaticParams:", slugs);
+  // console.log('[ReviewPage] generateStaticParams:', slugs);
   return slugs.map((slug) => ({ slug }));
 }
 
