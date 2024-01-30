@@ -1,4 +1,4 @@
-('use client');
+'use client';
 
 import React, { useState } from 'react';
 import { LinkIcon } from '@heroicons/react/20/solid';
