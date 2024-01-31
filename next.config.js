@@ -5,6 +5,9 @@ dns.setDefaultResultOrder("ipv4first")
 
 module.exports = {
     // output: 'export',
+    // images: {
+    //     unoptimized: true
+    // }
     images: {
         remotePatterns: [
             {
