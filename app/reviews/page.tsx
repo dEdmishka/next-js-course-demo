@@ -5,6 +5,8 @@ import { getReviews } from '@/lib/reviews';
 import { Metadata } from 'next';
 import Image from 'next/image';
 
+// export const revalidate = 30; // seconds
+
 export const metadata: Metadata = {
   title: 'Reviews',
 };
