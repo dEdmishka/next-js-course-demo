@@ -22,6 +22,9 @@ interface ReviewPageProps {
 export async function generateStaticParams(): Promise<ReviewPageParams[]> {
   const slugs = await getSlugs();
 
+  if(!slugs) {
+    notFound();
+  }
   // console.log('[ReviewPage] generateStaticParams:', slugs);
 
   return slugs.map((slug) => ({ slug }));

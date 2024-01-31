@@ -98,11 +98,14 @@ export async function getReview(slug: string): Promise<FullReview | null> {
   };
 }
 
-export async function getSlugs(): Promise<string[]> {
+export async function getSlugs(): Promise<string[] | null> {
   const { data } = await fetchReviews({
     fields: ['slug'],
     sort: ['publishedAt:desc'],
     pagination: { pageSize: 100 },
   });
+  if (!data) {
+    return null;
+  }
   return data.map((item: CmsItem) => item.attributes.slug);
 }
